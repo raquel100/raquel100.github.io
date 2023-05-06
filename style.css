@@ -1,5 +1,5 @@
 header{ 
-    color: red;
+    color: rgb(12, 0, 0);
     font-size:15px;
     font-family: 'Courier New', Courier, monospace;
   }
@@ -12,7 +12,7 @@ h1{
 }
   h2{ 
     color:darkgray;
-  font-size: 75px;
+  font-size: 60px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   }
@@ -26,7 +26,13 @@ p{
 
 h3{ 
     color: slategrey;
-    font-size:95px;
+    font-size:60px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
