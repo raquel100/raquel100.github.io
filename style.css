@@ -12,13 +12,13 @@ h1{
 }
   h2{ 
     color:darkgray;
-  font-size: 80px;
+  font-size: 75px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   }
 
 p{ 
-    color: rgb(38, 25, 7);
+    color: rgb(0, 0, 0);
      font: size 60px;px;
      font-family: 'Times New Roman', Times, serif;
      text-align: center;
