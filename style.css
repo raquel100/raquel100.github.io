@@ -11,7 +11,7 @@ h1{
     text-align: center;
 }
   h2{ 
-    color:darkgray;
+    color:rgb(74, 71, 71);
   font-size: 60px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
@@ -36,3 +36,11 @@ h3{
   margin-right: auto;
   width: 100%;
 }
+body {
+  background-color: rgba(209, 206, 210, 0.548);
+}
+body {
+  background: center url(picture.jpeg);
+  background-size:450;
+  }
+  
