@@ -6,23 +6,27 @@ header{
 
 h1{
     color: grey;
-    font-size: 120px;
+    font-size: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
   h2{ 
     color:darkgray;
   font-size: 95px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
   }
 
 <p{ 
     color: burlywood;
-     font-size:80px;
+     font-size:90px;
      font-family: 'Times New Roman', Times, serif;
+     text-align: center;
 }
 
 h3{ 
     color: slategrey;
-    font-size:90px;
+    font-size:95px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
