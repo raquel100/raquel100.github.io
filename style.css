@@ -18,13 +18,13 @@ h1{
   }
 
 p{ 
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
      font: size 75 px;
      font-family: 'Times New Roman', Times, serif;
      text-align: center;
   
 }
-ol{color:antiquewhite}
+ol{color:rgb(0, 0, 0)}
 
 h3{ 
     color: slategrey;
@@ -38,11 +38,9 @@ h3{
   margin-right: auto;
   width: 100%;
 }
+
 body {
-  background-color: rgba(209, 206, 210, 0.548);
-}
-body {
-  background: center url(blue.jpg);
-  background-size:600px;
+  background: center url(249.jpg);
+  background-size:cover;
   }
   
