@@ -1,6 +1,6 @@
 header{ 
     color: red;
-    font-size:30px;
+    font-size:15px;
     font-family: 'Courier New', Courier, monospace;
   }
 
@@ -12,12 +12,12 @@ h1{
 }
   h2{ 
     color:darkgray;
-  font-size: 95px;
+  font-size: 80px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   }
 
-<p{ 
+p{ 
     color: burlywood;
      font-size:90px;
      font-family: 'Times New Roman', Times, serif;
@@ -29,4 +29,8 @@ h3{
     font-size:95px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+}
+ol{ 
+    text-align: center;
+    font-size: 92px;
 }
