@@ -1,4 +1,3 @@
 body {
-    background-image:url(picture.jpeg)") fixed center;
-    }
-  
+    background: center url(picture.jpeg);
+}
